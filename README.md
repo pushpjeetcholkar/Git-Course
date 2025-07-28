@@ -1,2 +1,2 @@
 # Git-Course
-git course training
+## git course training
